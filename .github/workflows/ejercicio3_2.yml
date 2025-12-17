@@ -1,6 +1,7 @@
 name: Ejercicoi 3.2 workflow
 
-on: pull_request
+on: 
+  pull_request:
 
 jobs:					
   ejer3_2:
